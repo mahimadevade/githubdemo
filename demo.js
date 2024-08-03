@@ -5,3 +5,4 @@ let b = 20;
 console.log("addition is ", a + b);
 
 const p = inner.HTML("demo")
+console.log("hello mahima ");
